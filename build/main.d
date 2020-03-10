@@ -62,6 +62,7 @@ main.o: /home/puszkarb/upv/AEV/blobby_volley/source/main.c \
  /opt/devkitpro/libnds/include/maxmod9.h \
  /opt/devkitpro/libnds/include/mm_types.h \
  /home/puszkarb/upv/AEV/blobby_volley/include/sprites.h \
+ /home/puszkarb/upv/AEV/blobby_volley/build/ball.h \
  /home/puszkarb/upv/AEV/blobby_volley/build/background.h \
  /home/puszkarb/upv/AEV/blobby_volley/build/blobb.h
 
@@ -190,6 +191,8 @@ main.o: /home/puszkarb/upv/AEV/blobby_volley/source/main.c \
 /opt/devkitpro/libnds/include/mm_types.h:
 
 /home/puszkarb/upv/AEV/blobby_volley/include/sprites.h:
+
+/home/puszkarb/upv/AEV/blobby_volley/build/ball.h:
 
 /home/puszkarb/upv/AEV/blobby_volley/build/background.h:
 

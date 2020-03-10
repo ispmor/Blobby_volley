@@ -1,7 +1,13 @@
 # the -pn(n) rule specifies the number of entries in the palett 
 # 3 colors:
--pn3
+#-pn3
 
 # the -gB(n) rule specifies the output graphic format
 # 4-bit 
--gB4
+#-gB4
+
+-m!
+-gB8
+#metatile
+-Mh8
+-Mw8
