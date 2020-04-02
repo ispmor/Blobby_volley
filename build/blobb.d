@@ -1,1 +1,0 @@
-blobb.o: blobb.s

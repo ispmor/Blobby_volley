@@ -5228,7 +5228,7 @@ LOAD /opt/devkitpro/devkitARM/lib/gcc/arm-none-eabi/9.1.0/../../../../arm-none-e
 END GROUP
 LOAD /opt/devkitpro/devkitARM/lib/gcc/arm-none-eabi/9.1.0/armv6k/fpu/crtend.o
 LOAD /opt/devkitpro/devkitARM/lib/gcc/arm-none-eabi/9.1.0/armv6k/fpu/crtn.o
-OUTPUT(/home/puszkarb/upv/AEV/blobby_volley/blobby_volley.elf elf32-littlearm)
+OUTPUT(/home/puszkarb/upv/AEV/proba_3ds/proba_3ds.elf elf32-littlearm)
 
 .ARM.attributes
                 0x0000000000000000       0x30

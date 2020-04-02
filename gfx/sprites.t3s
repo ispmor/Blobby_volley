@@ -1,0 +1,4 @@
+--atlas -f rgba8888 -z auto
+background.png
+blobb.png
+ball.png
